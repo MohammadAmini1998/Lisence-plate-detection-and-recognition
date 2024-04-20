@@ -55,8 +55,8 @@ If you need the dataset for the second and third part which contains images for 
 
 ## Results
 
-<img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/44fa0453-2658-4b61-a7e9-71971ac25226" alt="Car1" width="400">
-
-<img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/b78f5018-af23-4b15-9794-94f25467ed35" alt="Car2" width="400">
-
-<img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/d6baffc3-8a39-44e2-be82-72ffc776b119" alt="CarCar" width="400">
+<p float="left">
+  <img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/44fa0453-2658-4b61-a7e9-71971ac25226" alt="Car1" width="400" />
+  <img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/b78f5018-af23-4b15-9794-94f25467ed35" alt="Car2" width="400" /> 
+  <img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/d6baffc3-8a39-44e2-be82-72ffc776b119" alt="CarCar" width="400" />
+</p>
