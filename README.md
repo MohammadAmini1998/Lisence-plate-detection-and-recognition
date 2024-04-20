@@ -1,13 +1,13 @@
 # License Plate Detection and Recognition.
 
-## Project Overview
+### Project Overview
 This project aims to develop a deep learning-based system for detecting license plates and recognizing characters on them in both images and videos. The project is divided into three main sections:
 
 1. **License Plate Detection in Images**
 2. **License Plate and Character Recognition in Images**
 3. **License Plate and Character Recognition in Videos**
 
-## YOLOv5 for Object Detection
+### YOLOv5 for Object Detection
 For the object detection tasks in this project, we will be using YOLOv5, which stands for "You Only Look Once." YOLOv5 is the latest version of the YOLO (You Only Look Once) object detection system, which is known for its real-time object detection capabilities.
 
 ### Key Features of YOLOv5:
@@ -21,7 +21,7 @@ For the object detection tasks in this project, we will be using YOLOv5, which s
 
 For more details, please refer to the [YOLOv5 paper](https://arxiv.org/pdf/1506.02640.pdf).
 
-## 1. License Plate Detection in Images
+### 1. License Plate Detection in Images
 In this section, our goal is to design a deep learning model that can detect license plates in images. We will train the model using a dataset containing images of cars with annotated license plates. The output of the model will be bounding boxes around the detected license plates.
 
 In this section, our goal is to design a deep learning model that can detect license plates in images. We will use a dataset obtained from the internet for this task. The dataset is available on Kaggle at the following link: [Car Plate Detection Dataset](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection).
@@ -30,7 +30,7 @@ The dataset contains 432 images of cars along with their license plates. Since t
 
 The dataset is in XML format and will be converted to YOLO format for this project.
 
-## 2. License Plate and Character Recognition in Images 
+### 2. License Plate and Character Recognition in Images 
 Building upon the license plate detection model developed in the previous section, we will extend the model to not only detect license plates but also recognize the characters on them. The input to the model will be an image containing one or more cars, and the output will be the detected license plates along with the recognized characters.
 
 For this section, we have been provided with the dataset required. However, the format of the provided dataset is not in YOLO format. 
@@ -41,25 +41,25 @@ In the provided JSON file, the class of each character (which can be from 0 to 3
 
 We need to convert this information to YOLO format, where the label for each image should be a .txt file containing the class number, the coordinates of the center point (y, x), and the width and height of this rectangle.
 
-## 3. License Plate and Character Recognition in Videos 
+### 3. License Plate and Character Recognition in Videos 
 In this section, we will apply the trained model to a chosen video and detect all the license plates and characters present in the cars in the video.
 
 For this section, we need to feed the video to the first network. By doing this, the first network will crop the parts of the video where it detects license plates.
 
 Now we feed these cropped images to the second network. By doing this, all license plates and their characters in the video will be detected.
 
-## Dataset
+### Dataset
 The dataset required for this project contains images of Iranian cars with annotated license plates. Each image in the dataset is annotated with bounding boxes around the license plates, along with labels for the characters on the license plates.
 
 If you need the dataset for the second and third part which contains images for iranian car, please email me at mohammad.aminiiii98@gmail.com, and I will send it to you as soon as possible.
 
-## Results
+### Results
 
 <p float="center">
   <img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/d6baffc3-8a39-44e2-be82-72ffc776b119" alt="CarCar" width="400" />
 </p>
 
-## Contributions and Feedback
+### Contributions and Feedback
 
 I welcome contributions, feedback, and suggestions for improvement! If you have any ideas, questions, or insights regarding this project, feel free to reach out and engage in discussions.
 
