@@ -22,13 +22,13 @@ For more details, please refer to the [YOLOv5 paper](https://arxiv.org/pdf/1506.
 - **Real-time Object Detection**: YOLOv5 is capable of real-time object detection, making it suitable for various applications, including this license plate detection and recognition project.
 - **Easy to Use and Implement**: YOLOv5 is easy to use and implement, making it an excellent choice for object detection tasks for both images and videos.
 
-## 1. License Plate Detection in Images (30 points)
+## 1. License Plate Detection in Images
 In this section, our goal is to design a deep learning model that can detect license plates in images. We will train the model using a dataset containing images of cars with annotated license plates. The output of the model will be bounding boxes around the detected license plates.
 
-## 2. License Plate and Character Recognition in Images (50 points)
+## 2. License Plate and Character Recognition in Images 
 Building upon the license plate detection model developed in the previous section, we will extend the model to not only detect license plates but also recognize the characters on them. The input to the model will be an image containing one or more cars, and the output will be the detected license plates along with the recognized characters.
 
-## 3. License Plate and Character Recognition in Videos (20 points)
+## 3. License Plate and Character Recognition in Videos 
 In this section, we will apply the trained model to a chosen video and detect all the license plates and characters present in the cars in the video.
 
 ## Dataset
