@@ -54,7 +54,7 @@ The dataset required for this project contains images of Iranian cars with annot
 If you need the dataset for the second and third part which contains images for iranian car, please email me at mohammad.aminiiii98@gmail.com, and I will send it to you as soon as possible.
 
 ### Results
-
+This is a short video of the part 3. You can find the result of part 1 and 2 in the repo as well. 
 <p float="center">
   <img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/d6baffc3-8a39-44e2-be82-72ffc776b119" alt="CarCar" width="400" />
 </p>
