@@ -1,4 +1,4 @@
-# License Plate Detection and Recognition.
+![Car1 (2)](https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/1fce561c-145b-4a89-b14d-0d7e21caa93e)# License Plate Detection and Recognition.
 
 ## Project Overview
 This project aims to develop a deep learning-based system for detecting license plates and recognizing characters on them in both images and videos. The project is divided into three main sections:
@@ -56,7 +56,7 @@ If you need the dataset for the second and third part which contains images for 
 ## Results
 
 <p float="center">
-  <img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/44fa0453-2658-4b61-a7e9-71971ac25226" alt="Car1" width="400" />
+  <img src="(https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/58df9c87-6733-4848-891b-3c302ef0a90d" alt="Car1" width="400" />
   
   <img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/b78f5018-af23-4b15-9794-94f25467ed35" alt="Car2" width="400" /> 
   
