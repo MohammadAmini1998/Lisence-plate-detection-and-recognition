@@ -62,3 +62,11 @@ If you need the dataset for the second and third part which contains images for 
   
   <img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/d6baffc3-8a39-44e2-be82-72ffc776b119" alt="CarCar" width="400" />
 </p>
+
+## Contributions and Feedback
+
+I welcome contributions, feedback, and suggestions for improvement! If you have any ideas, questions, or insights regarding this project, feel free to reach out and engage in discussions.
+
+Let's continue exploring the exciting possibilities of Object Detection together! 🚀
+
+By the way, If you find this project helpful or interesting, please star the repository to show your support! <img src="https://github.com/MohammadAmini1998/MohammadAmini1998/assets/49214384/51261e26-5869-4450-bf43-8f19aacce80d" alt="512" width="50" height="50">
