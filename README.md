@@ -47,6 +47,4 @@ Now we feed these cropped images to the second network. By doing this, all licen
 ## Dataset
 The dataset required for this project contains images of Iranian cars with annotated license plates. Each image in the dataset is annotated with bounding boxes around the license plates, along with labels for the characters on the license plates.
 
-If you need the dataset, please email me at mohammad.aminiiii98@gmail.com, and I will send it to you as soon as possible.
-
-The dataset will be divided into training and testing sets for model evaluation.
+If you need the dataset for the second and third part which contains images for iranian car, please email me at mohammad.aminiiii98@gmail.com, and I will send it to you as soon as possible.
