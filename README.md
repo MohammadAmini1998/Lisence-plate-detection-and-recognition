@@ -27,3 +27,8 @@ Building upon the license plate detection model developed in the previous sectio
 In this section, we will apply the trained model to a chosen video and detect all the license plates and characters present in the cars in the video.
 
 ## Dataset
+The dataset required for this project contains images of Iranian cars with annotated license plates. Each image in the dataset is annotated with bounding boxes around the license plates, along with labels for the characters on the license plates.
+
+If you need the dataset, please email me at [your_email@example.com](mailto:your_email@example.com), and I will send it to you as soon as possible.
+
+The dataset will be divided into training and testing sets for model evaluation.
