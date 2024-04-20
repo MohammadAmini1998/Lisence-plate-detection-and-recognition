@@ -20,11 +20,29 @@ For more details, please refer to the [YOLOv5 paper](https://arxiv.org/pdf/1506.
 ## 1. License Plate Detection in Images
 In this section, our goal is to design a deep learning model that can detect license plates in images. We will train the model using a dataset containing images of cars with annotated license plates. The output of the model will be bounding boxes around the detected license plates.
 
+In this section, our goal is to design a deep learning model that can detect license plates in images. We will use a dataset obtained from the internet for this task. The dataset is available on Kaggle at the following link: [Car Plate Detection Dataset](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection).
+
+The dataset contains 432 images of cars along with their license plates. Since the goal of this section is only to detect license plates and not the characters on them, the license plates in this dataset do not contain Persian characters, which is not a problem for our task.
+
+The dataset is in XML format and will be converted to YOLO format for this project.
+
 ## 2. License Plate and Character Recognition in Images 
 Building upon the license plate detection model developed in the previous section, we will extend the model to not only detect license plates but also recognize the characters on them. The input to the model will be an image containing one or more cars, and the output will be the detected license plates along with the recognized characters.
 
+For this section, we have been provided with the dataset required. However, the format of the provided dataset is not in YOLO format. 
+
+The difference between the provided format and YOLO format is that the provided format gives us the coordinates of the top-left point of the rectangle along with its width and height, while in the YOLO format, we need the coordinates of the center point along with its width and height.
+
+In the provided JSON file, the class of each character (which can be from 0 to 36) and the coordinates of the top-left point along with the width and height of this rectangle are given.
+
+We need to convert this information to YOLO format, where the label for each image should be a .txt file containing the class number, the coordinates of the center point (y, x), and the width and height of this rectangle.
+
 ## 3. License Plate and Character Recognition in Videos 
 In this section, we will apply the trained model to a chosen video and detect all the license plates and characters present in the cars in the video.
+
+For this section, we need to feed the video to the first network. By doing this, the first network will crop the parts of the video where it detects license plates.
+
+Now we feed these cropped images to the second network. By doing this, all license plates and their characters in the video will be detected.
 
 ## Dataset
 The dataset required for this project contains images of Iranian cars with annotated license plates. Each image in the dataset is annotated with bounding boxes around the license plates, along with labels for the characters on the license plates.
