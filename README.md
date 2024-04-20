@@ -50,3 +50,11 @@ The dataset required for this project contains images of Iranian cars with annot
 If you need the dataset for the second and third part which contains images for iranian car, please email me at mohammad.aminiiii98@gmail.com, and I will send it to you as soon as possible.
 
 ## Results
+
+Part 1: License Plate Detection in Images.
+![Car1](https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/44fa0453-2658-4b61-a7e9-71971ac25226)
+
+Part 2: License Plate and Character Recognition in Images.
+![Car2](https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/b78f5018-af23-4b15-9794-94f25467ed35)
+
+Part3: License Plate Recognition in Video.
