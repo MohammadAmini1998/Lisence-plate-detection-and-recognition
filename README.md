@@ -58,3 +58,4 @@ Part 2: License Plate and Character Recognition in Images.
 ![Car2](https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/b78f5018-af23-4b15-9794-94f25467ed35)
 
 Part3: License Plate Recognition in Video.
+![CarCar](https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/d6baffc3-8a39-44e2-be82-72ffc776b119)
