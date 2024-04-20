@@ -14,7 +14,9 @@ For the object detection tasks in this project, we will be using YOLOv5, which s
 - **State-of-the-art Performance**: YOLOv5 offers significant improvements in both accuracy and speed compared to its predecessors.
 - **Real-time Object Detection**: YOLOv5 is capable of real-time object detection, making it suitable for various applications, including this license plate detection and recognition project.
 - **Easy to Use and Implement**: YOLOv5 is easy to use and implement, making it an excellent choice for object detection tasks for both images and videos.
+
 ![123](https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/13a6d1b5-6f71-48e3-b751-35dc08b748a5)
+*License Plate Detection in Images*
 
 For more details, please refer to the [YOLOv5 paper](https://arxiv.org/pdf/1506.02640.pdf).
 
