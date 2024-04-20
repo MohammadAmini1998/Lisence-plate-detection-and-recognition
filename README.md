@@ -1,6 +1,5 @@
-### License Plate Detection and Recognition Project
-
-## Project Overview
+## License Plate Detection and Recognition Project
+### Project Overview
 This project aims to develop a deep learning-based system for detecting license plates and recognizing characters on them in both images and videos. The project is divided into three main sections:
 
 License Plate Detection in Images
