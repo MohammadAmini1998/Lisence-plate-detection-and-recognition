@@ -16,7 +16,8 @@ For the object detection tasks in this project, we will be using YOLOv5, which s
 - **Easy to Use and Implement**: YOLOv5 is easy to use and implement, making it an excellent choice for object detection tasks for both images and videos.
 
 ![123](https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/13a6d1b5-6f71-48e3-b751-35dc08b748a5)
-*License Plate Detection in Images*
+
+*Architecture of YOLO5*
 
 For more details, please refer to the [YOLOv5 paper](https://arxiv.org/pdf/1506.02640.pdf).
 
