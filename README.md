@@ -55,11 +55,8 @@ If you need the dataset for the second and third part which contains images for 
 
 ## Results
 
-Part 1: License Plate Detection in Images.
-![Car1](https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/44fa0453-2658-4b61-a7e9-71971ac25226)
+<img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/44fa0453-2658-4b61-a7e9-71971ac25226" alt="Car1" width="400">
 
-Part 2: License Plate and Character Recognition in Images.
-![Car2](https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/b78f5018-af23-4b15-9794-94f25467ed35)
+<img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/b78f5018-af23-4b15-9794-94f25467ed35" alt="Car2" width="400">
 
-Part3: License Plate Recognition in Video.
-![CarCar](https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/d6baffc3-8a39-44e2-be82-72ffc776b119)
+<img src="https://github.com/MohammadAmini1998/iranian-plate-recognition/assets/49214384/d6baffc3-8a39-44e2-be82-72ffc776b119" alt="CarCar" width="400">
